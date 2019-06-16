@@ -171,7 +171,7 @@ table, td, th {
 
 table {
   border-collapse: collapse;
-  width: 50%;
+  width: 100%;
 }
 
 th {
