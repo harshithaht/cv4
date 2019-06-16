@@ -268,7 +268,7 @@ Email ID  :<input type="text" name="mail"> <br>
 <p calss="last" style="background-color:olive;"> <font size="3">Contact details</font> <br style="background-color:olive;">
  Website link- <a href="http://www.sit.ac.in"> link </a> <br style="background-color:olive;">
  Mail address- <a href="mailto:harshithaht03@gmail.com"> maillink </a> </p>
- </p>
+
       
 <script>
 function noStyles() {
@@ -308,7 +308,6 @@ document.body.appendChild(div);
 }
 reStyle(0);
 </script>
-
 </body>
 </html>
 
