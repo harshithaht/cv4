@@ -4,12 +4,6 @@
 <html>
 <head>
 
-<link rel="stylesheet"
-		href="web1.css" type="text/css">
-
- 
-
-
 <style>/* Stylesheet 3: */
 body {
     font: 100% Verdana;
@@ -96,6 +90,9 @@ html {
 
 </style>
 
+
+<link rel="stylesheet" href="web1.css" type="text/css">
+
 <style>
 img {
   border-radius: 50%;
@@ -171,7 +168,7 @@ table, td, th {
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
 }
 
 th {
