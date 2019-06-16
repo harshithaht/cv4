@@ -247,7 +247,7 @@ th {
 	</td>
  </tr>
 
-</table>
+
 <hr>
 
 <table>
